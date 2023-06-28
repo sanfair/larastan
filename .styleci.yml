@@ -1,1 +1,4 @@
 preset: laravel
+risky: true
+enabled:
+  - native_function_invocation
